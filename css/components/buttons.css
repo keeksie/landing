@@ -1,0 +1,17 @@
+.btn-primary {
+  display: inline-block;
+  background-color: #ad3c42;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: 0.3s ease-in
+}
+.btn-primary:hover {
+  opacity: 0.8;
+}
+.btn-secondary {
+  border: 1px solid #1EDD88;
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #1EDD88;
+}
