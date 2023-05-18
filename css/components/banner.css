@@ -1,17 +1,22 @@
 .banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-size: cover;
   background-position: center;
   padding: 100px 0;
 }
 
 .banner h1 {
-  color: #74a9de;
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  color: #ffffff;
+  text-shadow: 10px 10px 400px rgba(1, 1, 1, 19);
 }
 
 .banner p {
-  color: white;
+  color: rgb(0, 0, 0);
   opacity: .7;
   font-size: 20px;
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  text-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
 }
+/* sdhvsh */
